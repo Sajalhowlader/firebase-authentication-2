@@ -1,0 +1,72 @@
+.from-container {
+    width: 550px;
+    margin: 0 auto;
+    border: 2px solid teal;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    padding: 20px 0px;
+}
+
+.new-ema {
+    text-decoration: none;
+    color: #ff8100;
+}
+
+.sing-up-togel {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.group-container label {
+    display: block;
+    font-size: 20px;
+    margin-bottom: 9px;
+}
+
+.group-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+button.google-sing-btn img {
+    width: 40px;
+}
+
+button.google-sing-btn {
+    display: flex;
+    height: 45px;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 600;
+    width: 340px;
+    border: none;
+    padding: 0px 0px;
+    justify-content: center;
+    border-radius: 5px;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+input.input-type {
+    padding: 10px 5px;
+    width: 330px;
+    font-size: 18px;
+    border: 1px solid #ebdfdf;
+    border-radius: 5px;
+}
+
+input.login_submit_btn {
+    width: 345px;
+    margin-top: 14px;
+    padding: 10px 0px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    background: #b9003c;
+    color: white;
+    cursor: pointer;
+}
